@@ -1,4 +1,4 @@
-#🎲 Dice Rolling Simulator (GUI)
+# 🎲 Dice Rolling Simulator (GUI)
 
 This project is a Dice Rolling Simulator with a graphical user interface (GUI) built using Python and the Tkinter library. The application simulates rolling two dice and displays the rolled numbers along with their sum.
 
